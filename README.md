@@ -14,4 +14,4 @@ Module 5: Software Craft
 Module 6: Microservices and APIs
 
 ## About Me
-I am a operations manager for a online chat and AI solution company.
+I am an operations manager for a online chat and AI solution company.
