@@ -20,4 +20,4 @@ The modules which will contain solutions are summarised as such:
 [Module 6: Microservices and APIs](./Module6) 
 
 ## About Me
-I am an operations manager for a online chat and AI solution company.
+I am an operations manager for an online chat and AI solution company.
